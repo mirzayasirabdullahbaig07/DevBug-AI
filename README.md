@@ -8,6 +8,7 @@
 🔗 [Live App on Streamlit](https://devbug-ai.streamlit.app/)
 
 ## 🚀 Video Demo
+https://github.com/user-attachments/assets/366eab15-02b5-43f7-9f5d-7c2d858fb68d
 
 --- 
 
