@@ -4,6 +4,13 @@
 
 ---
 
+## 🚀 Demo
+🔗 [Live App on Streamlit](https://devbug-ai.streamlit.app/)
+
+## 🚀 Video Demo
+
+--- 
+
 ## 🚀 Features
 
 - **Bug Classification:** Automatically predicts the category of a bug from its title and description.
