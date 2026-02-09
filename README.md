@@ -22,6 +22,17 @@ https://github.com/user-attachments/assets/366eab15-02b5-43f7-9f5d-7c2d858fb68d
 
 ---
 
+## 📸 Screenshots
+### 🏠 Home Page
+<img width="693" height="780" alt="image" src="https://github.com/user-attachments/assets/3970cb7d-6432-42aa-9154-517c5e453852" />
+
+### ✅ Adding Prompt
+<img width="726" height="731" alt="image" src="https://github.com/user-attachments/assets/6c3e514d-4c55-4cba-90c4-dcbc8c40d7c4" />
+
+### ✅ Result
+<img width="670" height="345" alt="image" src="https://github.com/user-attachments/assets/61029106-482d-478c-be0b-2491f0e38e27" />
+
+
 ## 🧰 Tech Stack
 
 - Python 3.9+
